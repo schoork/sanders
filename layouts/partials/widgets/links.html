@@ -1,0 +1,34 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Links widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}{{ . }}{{ end }}
+
+    {{ if $page.Params.links }}
+    {{ range $idx, $key := sort $page.Params.links ".title" "asc" }}
+      <div class="card experience course">
+        <a href="{{ .url }}" target="_blank">
+          <div class="card-body">
+            {{with .favicon }}
+              <img src="links/{{ . }}">
+            {{end}}
+            <h4 class="card-title exp-title text-muted my-0">{{ .title | markdownify | emojify }}</h4>
+
+            {{with .notes }}
+              <div class="card-subtitle my-0 article-metadata">
+                {{. | markdownify | emojify }}
+              </div>
+            {{ end }}
+          </div>
+        </a>
+      </div>
+    {{end}}
+    {{end}}
+  </div>
+</div>

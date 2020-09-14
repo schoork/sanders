@@ -1,15 +1,15 @@
 ---
-title: Privacy Policy
+title: Non-Discrimination Policy
 date: "2018-06-28T00:00:00+01:00"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+T.R. Sanders Elementary School is committed to providing a work environment that is free of discrimination. It is the policy of the Hollandale School District that all applicants and employees are entitled to equal employment opportunity regardless of race, color, religion or creed, sex, sexual orientation, gender identity, national origin, age, disability, veteran status or other protected characteristics as required by local, state and federal law.

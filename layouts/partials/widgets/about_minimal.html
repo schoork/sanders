@@ -1,0 +1,15 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- About Minimal Widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+
+    {{ with $page.Content }}{{ . }}{{ end }}
+
+  </div>
+</div>

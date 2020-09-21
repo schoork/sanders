@@ -15,7 +15,7 @@ child's schedule may change.
 Time|Activity|Video Link
 ---|---|---
 7:55 - 8:00|Daily Start|[Link](https://us04web.zoom.us/j/5512984916?pwd=Yi9HTXRGTi9hWVdtMjdtUjBlYXF5UT09)
-8:00 - 8:45|Independent Work|
+8:00 - 8:45|Independent Work or Tutorial|see below
 8:45 - 9:30|Reading Class|[Link](https://us04web.zoom.us/j/5512984916?pwd=Yi9HTXRGTi9hWVdtMjdtUjBlYXF5UT09)
 9:30 - 10:15|Independent Work|
 10:15 - 10:45|Lunch|
@@ -32,9 +32,19 @@ below.
 - Potts
   - Meeting ID: 551 298 4916
   - Passcode: 3uhJrL
-- Dorsey
-  - Meeting ID: 862 9986 5603
-  - Passcode: Doves
+- Tutorial
+  - Atkins
+    - [Link](https://us02web.zoom.us/j/83799096553?pwd=ZndCSElFM0R5RmIrMGpDTUFsWUpJUT09)
+    - Meeting ID: 837 9909 6553
+    - Passcode: 123904
+  - Bee
+    - [Link](https://zoom.us/j/9235627639?pwd=eVU4MFAvSVZFR0FjYUU3T2pQMlVOdz09)
+    - Meeting ID: 923 562 7639
+    - Passcode: 9Tg8bQ
+  - Dorsey
+    - [Link](https://us02web.zoom.us/j/86888411071?pwd=TEN5WWlPMHhaUDZKSGNDeWoyNmRyZz09)
+    - Meeting ID: 868 8841 1071
+    - Passcode: Doves
 
 ## Work
 

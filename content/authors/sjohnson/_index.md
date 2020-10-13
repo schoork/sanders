@@ -7,10 +7,10 @@ authors:
 - sjohnson
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Curriculum, Instruction, and Assessment Coordinator
+role: Interim Principal
 
 # Short bio (displayed in user profile at end of posts)
 bio: My most enjoyable moments as an educator is working with students and teachers and seeing sustainable growth as they learn.

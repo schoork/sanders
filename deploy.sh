@@ -2,6 +2,9 @@
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# Pull most recent version
+git pull
+
 # Add changes to git.
 git add .
 
